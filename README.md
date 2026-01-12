@@ -18,19 +18,6 @@ Production-grade infrastructure with Vagrant & Ansible: HA cluster (Pacemaker/Co
 - Self-taught through **HackTheBox** and **TryHackMe**
 - Hands-on experience with personal homelab
 
-## Tech Stack
-
-**Systems:** Rocky Linux • Ubuntu • Windows Server • VMware • Proxmox • Vagrant
-
-**DevOps:** Ansible • CI/CD • Pacemaker/Corosync
-
-**Security:** Metasploit • Nmap • Python scripting
-
-**Tools:** Git • Bash • PowerShell
-
----
-
-*Open to opportunities in system administration and DevOps.*
 
 
 
