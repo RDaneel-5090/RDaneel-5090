@@ -10,9 +10,10 @@ Security: Metasploit • Nmap • Python scripting
 Tools: Git • Bash • PowerShell
 
  Projects
- Port Scanner
+ Port Scanner https://github.com/RDaneel-5090/portscanner
 Lightweight TCP port scanner in Bash for network security audits. Features automatic service detection and customizable timeout.
 ⚙️ HA DevOps Infrastructure
 Production-grade infrastructure with Vagrant & Ansible: HA cluster (Pacemaker/Corosync), redundant services (Nginx/Samba), Active Directory, and Zabbix monitoring.
+
 
 📫 GitHub: @RDaneel-5090 • 🌍 France
