@@ -1,4 +1,4 @@
-RDaneel-5090 👋
+RDaneel-5090
 
 ## Featured Projects
 
@@ -13,6 +13,7 @@ Production-grade infrastructure with Vagrant & Ansible: HA cluster (Pacemaker/Co
 - Currently preparing for **RHCSA** (Red Hat Certified System Administrator)
 - Self-taught through **HackTheBox** and **TryHackMe**
 - Hands-on experience with personal homelab
+
 
 
 
